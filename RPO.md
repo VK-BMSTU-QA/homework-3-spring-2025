@@ -263,7 +263,9 @@
 
 ## 7. Предпросмотр объявлений
 
-supchaser
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/f0b08438-2ad4-42bc-bbff-e02140270446" />
+
+- [ ] 
 
 ## 8. Создание аудитории
 
